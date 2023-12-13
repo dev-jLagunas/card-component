@@ -13,6 +13,12 @@ module.exports = {
         "dark-grayish-blue": "hsl(228, 12%, 48%)",
         white: "hsl(0, 0%, 100%)",
       },
+      width: {
+        "90vw": "90vw",
+      },
+      height: {
+        "90vh": "90vh",
+      },
     },
   },
   plugins: [],
